@@ -12,6 +12,7 @@
 "icons": {}
 },
 
-
+"permissions": ["storage", "unlimitedStorage"],
+  
 "authors": "Ashly Lam, Ellen Landrum, Seon-Jae Yoon"
 }
