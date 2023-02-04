@@ -1,0 +1,17 @@
+{
+"manifest version": 3,
+"name": "WellCheck",
+"version": "1.0.1",
+
+
+"browser_action": {
+"default icon": "icon.png",
+"default_popup": "window.html",
+"default locale": "en",
+"description": "Global Wellness Extension",
+"icons": {}
+},
+
+
+"authors": "Ashly Lam, Ellen Landrum, Seon-Jae Yoon"
+}
