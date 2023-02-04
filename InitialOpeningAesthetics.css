@@ -1,0 +1,34 @@
+body {
+  background-color: rgb(254,247,234);
+}
+
+h1 {
+  color: rgb(177,197,150);
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+.button {
+  background-color: rgb(177,197,150); /* Beige */
+  border: none;
+  color: white;
+  padding: 30px 45px;
+  text-align: center;
+  text-decoration: none;
+  display: flex-block;
+  font-family: verdana;
+  font-size: 20px;
+}
+.button1 {border-radius: 12px;}
+.button1:hover {
+  background-color: rgb(117,131,99);
+  color: white;
+}
+.button2 {border-radius: 12px;}
+.button2:hover {
+  background-color: rgb(117,131,99);
+  color: white;
+}
