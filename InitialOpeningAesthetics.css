@@ -42,7 +42,7 @@ p {
     border-radius: 12px;
     font-family: verdana;}
 .button1:hover {
-  background-color: rgb(117,131,99);
+  background-color: rgb(196, 219, 164);
   color: white;
 }
 .button2 {
@@ -50,6 +50,6 @@ p {
     font-family: verdana;
 }
 .button2:hover {
-  background-color: rgb(117,131,99);
+  background-color: rgb(196, 219, 164);
   color: white;
 }
