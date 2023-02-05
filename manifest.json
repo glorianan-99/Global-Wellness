@@ -1,11 +1,11 @@
 {
 "manifest version": 3,
-"name": "WellCheck",
+"name": "Glimpse",
 "version": "1.0.1",
 
 
 "browser_action": {
-"default icon": "icon.png",
+"default icon": "https://ibb.co/qdm4S2j",
 "default_popup": "InitialOpeningAesthetics.html",
 "default locale": "en",
 "description": "Global Wellness Extension",
